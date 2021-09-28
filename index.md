@@ -9,9 +9,9 @@
 - 2020/02 京都大学工学研究科 青藍プログラム助教 (現職)
 
 ## 論文
-1. M. Aoki, E. Shigematsu, R. Ohshima, T. Shinjo, M. Shiraishi and Y. Ando, "Coexistence of low-frequency spin-torque ferromagnetic resonance and unidirectional spin Hall magnetoresistance", Physical Review B (2021).
-1. K. Ohnishi, S. Gupta, S. Kasahara, Y. Kasahara, Y. Matsuda, E. Shigematsu, R. Ohshima, Y. Ando and M. Shiraishi, "Observation of a superconducting state of a topological superconductor candidate FeTe0.6Se0.4 equipping ferromagnetic electrodes with perpendicular magnetic anisotropy", Applied Physics Express (2021).
-1. S. Lee, H. Koike, M. Goto, S. Miwa, Y. Suzuki, N. Yamashita, R. Ohshima, E. Shigematsu, Y. Ando and M. Shiraishi, "Synthetic Rashba spin-orbit system using a silicon metal-oxide semiconductor",Nature Materials (2021).
+1. M. Aoki, E. Shigematsu, R. Ohshima, T. Shinjo, M. Shiraishi and Y. Ando, "Coexistence of low-frequency spin-torque ferromagnetic resonance and unidirectional spin Hall magnetoresistance", Physical Review B 104, 094401 (2021).
+1. K. Ohnishi, S. Gupta, S. Kasahara, Y. Kasahara, Y. Matsuda, E. Shigematsu, R. Ohshima, Y. Ando and M. Shiraishi, "Observation of a superconducting state of a topological superconductor candidate FeTe0.6Se0.4 equipping ferromagnetic electrodes with perpendicular magnetic anisotropy", Applied Physics Express 14, 093002 (2021).
+1. S. Lee, H. Koike, M. Goto, S. Miwa, Y. Suzuki, N. Yamashita, R. Ohshima, E. Shigematsu, Y. Ando and M. Shiraishi, "Synthetic Rashba spin-orbit system using a silicon metal-oxide semiconductor", Nature Materials 20, 1228 (2021).
 1. N. Yamashita, S. Lee, R. Ohshima, E. Shigematsu, H. Koike, Y. Suzuki, S. Miwa, M. Goto, Y. Ando and M. Shiraishi, "Investigation of the thermal tolerance of silicon-based lateral spin valves", Scientific Reports 11, 10583 (2021).
 1. **E. Shigematsu, L. Liensberger, M, Weiler, R. Ohshima, Y. Ando, T. Shinjo, H. Huebl and M. Shiraishi, "Spin to charge conversion in Si/Cu/ferromagnet systems investigated by ac inductive measurements", Physical Review B 103, 094430 (2021).**
 1. M. Aoki, E. Shigematsu, M. Masayuki, R. Ohshima, S. Honda, T. Shinjo, M. Shiraishi and Y. Ando, "Enhancement of low-frequency spin-orbit-torque ferromagnetic resonance signals by frequency tuning observed in Pt/Py, Pt/Co, and Pt/Fe bilayers", AIP Advances 11, 025206 (2021).
