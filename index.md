@@ -9,6 +9,7 @@
 - 2020/02 京都大学工学研究科 青藍プログラム助教 (現職)
 
 ## 論文
+1. S. Mae, R. Ohshima, E. Shigematsu, Y. Ando, T. Shinjo and M. Shiraishi, "Influence of adjacent metal films on magnon propagation in Y3Fe5O12", Physical Review B 105, 104415 (2022).
 1. M. Aoki, E. Shigematsu, R. Ohshima, T. Shinjo, M. Shiraishi and Y. Ando, "Coexistence of low-frequency spin-torque ferromagnetic resonance and unidirectional spin Hall magnetoresistance", Physical Review B 104, 094401 (2021).
 1. K. Ohnishi, S. Gupta, S. Kasahara, Y. Kasahara, Y. Matsuda, E. Shigematsu, R. Ohshima, Y. Ando and M. Shiraishi, "Observation of a superconducting state of a topological superconductor candidate FeTe0.6Se0.4 equipping ferromagnetic electrodes with perpendicular magnetic anisotropy", Applied Physics Express 14, 093002 (2021).
 1. S. Lee, H. Koike, M. Goto, S. Miwa, Y. Suzuki, N. Yamashita, R. Ohshima, E. Shigematsu, Y. Ando and M. Shiraishi, "Synthetic Rashba spin-orbit system using a silicon metal-oxide semiconductor", Nature Materials 20, 1228 (2021).
@@ -30,7 +31,8 @@
 1. 第82回応用物理学会秋季学術講演会 セッション10.3「スピンデバイス・磁気メモリ・ストレージ技術」座長
 
 ## 研究経費
-1. 令和2年度研究活動スタート支援「3C-SiCを用いた新たな化合物半導体スピントロニクスの開拓」
+1. 令和4年度「科研費」若手研究「誘導性交流スピン流デバイスの創製」
+1. 令和2年度「科研費」研究活動スタート支援「3C-SiCを用いた新たな化合物半導体スピントロニクスの開拓」
 1. 2021年度 京都大学リサーチ・ディベロップメントプログラム いしずえ
 1. 京都大学教育研究振興財団 令和3年度研究活動推進助成
 1. 公益財団法人村田学術振興財団 2021年度研究助成「球状磁性体構造のスピン流物性を応用した機能性高周波デバイスの創製」
